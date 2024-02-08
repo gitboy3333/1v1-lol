@@ -1,4 +1,9 @@
-﻿<!DOCTYPE html>
+<Module>
+<ModulePrefs title=""/>
+<Content type="html">
+<![CDATA[ 
+	
+<!DOCTYPE html>
 <html lang="en-us">
 
 <head>
@@ -334,6 +339,10 @@
 		CheckAdBlock();
 	
 	</script>
+
+	 ]]>
+</Content>
+</Module>
 </body>
 
 </html>
